@@ -17,7 +17,8 @@ Then you have to inject the bitstream into the pif's FPGA, and that's the job of
 - program the onboard FPGA with a compiled bitstream
 - control the FPGA firmware from the Raspberry Pi processor
 
-Example FPGA firmware programs are also included.
+Example FPGA firmware programs are also included, 
+plus an example of controlling the FPGA from a web application. 
 
 Many flavors of Linux are available for the Raspberry Pi. 
 This software is written for the *Raspbian/wheezy* distribution.
